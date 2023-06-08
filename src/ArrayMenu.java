@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BT3 {
+public class ArrayMenu {
     static Scanner input = new Scanner(System.in);
     static int[] arr1 = {1, 2, 3, 4, 5};
     static int[] arr2 = {6, 7, 8, 9, 10};
